@@ -18,6 +18,7 @@ The dataset consists of a **single folder** containing approximately **9,000 aug
 ├── 📁 Rot/
 └── 📁 Rust/
 ```
+⚠️ Note: Due to GitHub file size limitations, this repository contains only a small sample of the full dataset. The complete dataset is stored externally and can be shared upon request or hosted on a suitable platform.
 
 ### 📊 Summary
 
